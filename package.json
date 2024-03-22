@@ -1,0 +1,21 @@
+{
+  "name": "cumsaepe",
+  "version": "1.0.0",
+  "description": "Classes/Interfaces Typescript - générales. (mais Librairie créée au format: Angular Package)",
+  "peerDependencies": {
+    "@angular/common": "^12.1.0",
+    "@angular/core": "^12.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MariahGreen/cumsaepe.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "GaetanoBeatty",
+  "homepage": "https://github.com/MariahGreen/cumsaepe.git"
+}
